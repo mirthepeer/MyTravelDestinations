@@ -66,8 +66,8 @@ body{
   gap: 1.2em;
   justify-content: center;
   align-items: center;
-  margin-top: 1em;
   padding: 1em;
+  margin-bottom: .5em;
 }
 
 .title{
